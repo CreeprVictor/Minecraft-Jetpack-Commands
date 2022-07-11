@@ -32,4 +32,4 @@ You will also need to type the following
 
 -Added Hover Toggle
 
--Added Another Joystick for More Controlls
+-Added Another Joystick for More Controls
