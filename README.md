@@ -1,6 +1,8 @@
 # Minecraft-Jetpack-Commands
 You will also need to type the following
 - /scoreboard objectives add coalCount dummy
+- /scoreboard objecitves add JetpackIO dummy
+- /scoreboard objecitves add JetpackBH dummy
 -----------------------------------------------------
 -*-CHANGELOG-*-
 
