@@ -17,3 +17,11 @@ You will also need to type the following
 -Added Organization
 
 -Added New Hover Particle
+
+■UPDT#3:
+
+-Changed Elytra Jetpack name color to yellow, to match the rarity of the normal elytra
+
+-Made it so you can use charcoal too instead of just normal coal
+
+-Added recipe for Elytra Jetpack
