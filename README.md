@@ -25,3 +25,11 @@ You will also need to type the following
 -Made it so you can use charcoal too instead of just normal coal
 
 -Added recipe for Elytra Jetpack
+
+■UPDT#4:
+
+-Added On/Off
+
+-Added Hover Toggle
+
+-Added Another Joystick for More Controlls
